@@ -1,6 +1,7 @@
 numpy
 pandas
 streamlit
+mlrose
 mlxtend
 xgboost
 scikit-learn==1.0.2
